@@ -1,5 +1,4 @@
-# Tesla's Market Impact and Future with Electric Vehicles
-
+# Tesla's Market Expansion for Modern Life
 This project explores Tesla's success and its upcoming electric vehicles. We used two different types of research:
 
 **Qualitative Analysis (from different prospectives from social media and academic report):**
